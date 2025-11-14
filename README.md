@@ -2,14 +2,17 @@
 
 **Self-Taught AI Engineer | Healthcare Technology Enthusiast**
 
-I build AI-powered applications that solve real problems in healthcare, with a focus on patient safety, privacy, and bridging gaps in care delivery.
+I build AI-powered applications that solve real problems in healthcare, with a focus on patient safety, privacy, and bridging gaps in care delivery. Focusing on **Ethical AI** integration that solves real-world problems for people who need care most when they think there is so little to be found.
 
 ## 🏥 My Unique Background
 
-- **Health Sciences degree** from UCF + **Financial Services Compliance** experience at Deutsche Bank
-- Self-taught developer specializing in **healthcare AI applications**
-- Deep understanding of regulatory requirements (HIPAA, compliance frameworks)
+- **Health Sciences degree** from UCF + **Clinical training in Radiation Therapy**
+- **Financial Services Compliance** experience at Deutsche Bank
+- Self-taught developer specializing in **healthcare AI applications** while caregiving
+- Deep understanding of regulatory requirements (HIPAA, compliance frameworks) and clinical workflows
 - Passionate about using technology to improve patient outcomes and healthcare accessibility
+
+**Why this combination matters**: I understand healthcare from three critical angles—clinical care, regulatory compliance, and technology implementation. I've seen how medical technology impacts real patients, navigated complex compliance requirements, and now build AI solutions that bridge these worlds responsibly.
 
 ## 🚀 What I'm Building
 
