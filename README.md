@@ -20,48 +20,9 @@ I build AI-powered applications that solve real problems in healthcare, with a f
 - **MedTracker**: Medication reminder and adherence tracking application
 - Exploring: AI-assisted tools for patients with communication barriers
 
-## 💻 Technical Skills
-
-**Languages & Frameworks:**
-- Python (FastAPI, Flask)
-- HTML/CSS/JavaScript
-- SQL (SQLite, PostgreSQL)
-
-**AI/ML:**
-- OpenAI Whisper (Speech Recognition)
-- Natural Language Processing
-- Google Translate API integration
-- Model evaluation and selection
-
-**Healthcare Tech:**
-- HIPAA compliance principles
-- Protected Health Information (PHI) handling
-- Healthcare workflow understanding
-- Currently learning: HL7, FHIR standards
-
-**Development Practices:**
-- RESTful API design
-- Database architecture
-- Privacy-first development
-- Git version control
-
-🌟 What Drives Me
-
-I'm motivated by the intersection of AI and healthcare—particularly projects that:
-- Improve healthcare accessibility for underserved populations
-- Address real patient safety and care quality issues
-- Respect patient privacy and data security
-- Bridge communication gaps in medical settings
-
 Coming from a Health Sciences background, I understand clinical workflows and patient needs. My compliance experience taught me the critical importance of regulatory requirements. Now I'm combining these with AI engineering to build solutions that are both innovative and responsible.
 
-## 💡 Open to Opportunities
-
-I'm actively seeking entry-level positions in:
-- Healthcare AI/ML Engineering
-- Medical Technology Development
-- AI-Augmented Development roles
-- Open to collaboration on healthcare AI projects!
+## 💡 Open to Opportunities & Collaborations
 
 ---
 
