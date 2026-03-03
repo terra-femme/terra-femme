@@ -6,7 +6,7 @@ I build AI-powered applications that solve real problems in healthcare, with a f
 
 ## 🏥 My Unique Background
 
-- **Health Sciences degree** from UCF + **Clinical training in Radiation Therapy**
+- **Health Sciences degree** + **Clinical training in Radiation Therapy**
 - **Financial Services Compliance** experience at Deutsche Bank
 - Self-taught developer specializing in **healthcare AI applications** while caregiving
 - Deep understanding of regulatory requirements (HIPAA, compliance frameworks) and clinical workflows
@@ -45,14 +45,7 @@ I build AI-powered applications that solve real problems in healthcare, with a f
 - Privacy-first development
 - Git version control
 
-## 🎯 Currently Learning
-
-- Healthcare data interoperability standards (HL7, FHIR)
-- Advanced NLP techniques for medical text
-- TypeScript and React for frontend development
-- Healthcare system integration patterns
-
-## 🌟 What Drives Me
+🌟 What Drives Me
 
 I'm motivated by the intersection of AI and healthcare—particularly projects that:
 - Improve healthcare accessibility for underserved populations
@@ -67,14 +60,7 @@ Coming from a Health Sciences background, I understand clinical workflows and pa
 I'm actively seeking entry-level positions in:
 - Healthcare AI/ML Engineering
 - Medical Technology Development
-- Healthcare IT
 - AI-Augmented Development roles
-
-**Location**: Coconut Creek, FL (Open to remote)
-
-## 📫 Let's Connect
-
-- GitHub: [@terra-femme](https://github.com/terra-femme)
 - Open to collaboration on healthcare AI projects!
 
 ---
