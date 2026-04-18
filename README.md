@@ -8,6 +8,4 @@ Coming from a Health Sciences background, I understand clinical workflows and pa
 
 ## 💡 Open to Opportunities & Collaborations
 
----
-
 *"Technology in healthcare isn't just about innovation—it's about responsibility, safety, and putting patients first."*
