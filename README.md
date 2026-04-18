@@ -1,24 +1,8 @@
 # Hi, I'm Kris 👋
 
-**Self-Taught AI Engineer | Healthcare Technology Enthusiast**
+**Speech Recognition AI Engineer | Healthcare Technology Enthusiast**
 
-I build AI-powered applications that solve real problems in healthcare, with a focus on patient safety, privacy, and bridging gaps in care delivery. Focusing on **Ethical AI** integration that solves real-world problems for people who need care most when they think there is so little to be found.
-
-## 🏥 My Unique Background
-
-- **Health Sciences degree** + **Clinical training in Radiation Therapy**
-- **Financial Services Compliance** experience at Deutsche Bank
-- Self-taught developer specializing in **healthcare AI applications** while caregiving
-- Deep understanding of regulatory requirements (HIPAA, compliance frameworks) and clinical workflows
-- Passionate about using technology to improve patient outcomes and healthcare accessibility
-
-**Why this combination matters**: I understand healthcare from three critical angles—clinical care, regulatory compliance, and technology implementation. I've seen how medical technology impacts real patients, navigated complex compliance requirements, and now build AI solutions that bridge these worlds responsibly.
-
-## 🚀 What I'm Building
-
-- **MedJournee**: AI-powered medical conversation transcription with real-time translation for families with limited English proficiency (Currently redesigning privacy architecture)
-- **MedTracker**: Medication reminder and adherence tracking application
-- Exploring: AI-assisted tools for patients with communication barriers
+I am a vocalist with studio engineering experience and I build AI-powered applications that solve real problems in healthcare, with a focus on patient safety, privacy, and bridging gaps in care delivery. Focusing on **Ethical AI** integration that solves real-world problems for people who need care most when they think there is so little to be found. 
 
 Coming from a Health Sciences background, I understand clinical workflows and patient needs. My compliance experience taught me the critical importance of regulatory requirements. Now I'm combining these with AI engineering to build solutions that are both innovative and responsible.
 
