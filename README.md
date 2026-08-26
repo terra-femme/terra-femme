@@ -6,7 +6,8 @@ Most software optimizes for whoever is already being served. I'm interested in
 everyone else — the patient managing eight medications through a portal that
 doesn't speak their language, the family documenting a care journey nobody wrote
 down for them, the producer whose release disappears between seven platforms
-before anyone hears it.
+before anyone hears it, the bass lover who can't hear the track but can feel the
+kick, the snare and the hat arrive as three separate things in their hands.
 
 Different domains, same problem. The thread through all of it is making the
 unseen seen.
