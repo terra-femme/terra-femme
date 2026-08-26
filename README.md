@@ -24,9 +24,9 @@ can do alone, it's where a person belongs in the loop and what the handoff shoul
 feel like. I build for collaboration, with the seams visible on purpose.
 
 **Governance as design, not paperwork.** Provenance, escalation paths, and knowing
-what a system should refuse are architecture decisions. I write playbooks for
-non-technical teams adopting AI. **IAPP AI Governance Professional (AIGP) in
-progress.**
+what a system should refuse are architecture decisions. I write and teach this —
+see [AI_Enablement](https://github.com/terra-femme/AI_Enablement) below. **IAPP AI
+Governance Professional (AIGP) in progress.**
 
 **Workflows and apps.** Most of what I ship is the unglamorous middle — the
 pipeline, the scheduler, the thing that reconciles four APIs that disagree.
@@ -43,16 +43,25 @@ stop vanishing into algorithmic afterthought. Agentic discovery, audio-reactive
 visuals driven by real stem separation, and a haptics engine that splits kick,
 snare and hat into separate voices you can feel.
 
-**[portfolio](https://terra-femme.github.io/portfolio/)** — TouchDesigner work
-Audio-reactive and generative visual pieces.
+**[AI_Enablement](https://github.com/terra-femme/AI_Enablement)** — teaching + governance
+A tiered curriculum taking non-technical organizations from "what is a model" to
+acceptable-use policy, data classification, human-in-the-loop design, and NIST AI
+RMF / ISO 42001 awareness. Includes a fill-in-the-blanks AUP template and a
+playbook on AI-enabled threats — deepfaked candidates, AI phishing, shadow AI as
+attack surface.
 
 **[MedJournee](https://github.com/terra-femme/MedJournee)** — Python
-Helps families document and understand a healthcare journey across language
-barriers. Built for the people doing translation work for their own relatives in
-waiting rooms.
+Live diarization, transcription and translation of clinical conversations, stored
+as structured journal entries. Privacy-first. Built for the 25 million people in
+the US with limited English proficiency — and for the family members doing
+interpretation work for their own relatives in waiting rooms.
+
+**[portfolio](https://terra-femme.github.io/portfolio/)** — TouchDesigner
+Real-time particle simulation and generative, audio-reactive visual work.
 
 **[MedTracker](https://github.com/terra-femme/MedTracker)** — Python
-Medication schedules, reminders and adherence tracking.
+Medication scheduling, reminders and adherence tracking, built around
+patient-safety workflows. Early, and building iteratively.
 
 Health tech is still very much a thing I build. It's one instance of the thesis,
 not the whole of it.
