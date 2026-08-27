@@ -16,7 +16,7 @@ unseen... seen.
 
 ## The other half
 
-I'm a vocalist with studio engineering experience, and that isn't a footnote —
+I'm a vocalist with studio engineering experience, and that isn't a footnote,
 it's why the audio work in my apps is real DSP instead of a decorative waveform.
 TouchDesigner, audio reactivity, generative visuals, and music are where the
 engineering and the art stop being separate things.
