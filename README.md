@@ -10,7 +10,7 @@ before anyone hears it, the bass lover who can't hear the track but can feel the
 kick, the snare and the hat arrive as three separate things in their hands.
 
 Different domains, same problem. The thread through all of it is making the
-unseen seen.
+unseen... seen.
 
 ---
 
@@ -26,4 +26,3 @@ engineering and the art stop being separate things.
 ## Open to
 
 Agentic AI engineering, AI enablement and governance, and audio/ML work.
-Especially anywhere the goal is to make somebody feel seen.
