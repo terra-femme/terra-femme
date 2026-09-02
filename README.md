@@ -26,3 +26,4 @@ engineering and the art stop being separate things.
 ## Open to
 
 Agentic AI engineering, AI enablement and governance, and Audio/ML work.
+Touchdesigner AV shows, iOS and Android app development, Website digital creative work.
